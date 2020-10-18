@@ -1,9 +1,6 @@
 <<<<<<< HEAD
-# SkyWay JS SDK Tutorial
+# ReCIL for Android
 
-Please refer to the URL below for further details.
+This android app receive the coordinate of the point clicked on on the <a href="https://yito0424.github.io/ReCIL_web">ReCIL web app<a>.
 
-https://webrtc.ecl.ntt.com/en/js-tutorial.html
-=======
-# ReCIL_web
 >>>>>>> origin/master
